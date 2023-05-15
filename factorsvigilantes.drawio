@@ -1,0 +1,70 @@
+<mxfile host="Electron" modified="2023-05-15T04:45:26.895Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="ABU3Ew1CuCaiw68LzUYH" version="21.2.8" type="device">
+  <diagram name="Page-1" id="puhRrJeCJv06LDn-4ouG">
+    <mxGraphModel dx="954" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2tZ9rhMwnFU-MTafR1sQ-1" value="&lt;b style=&quot;font-size: medium; text-align: start;&quot;&gt;Vigilante Justice Over Blasphemy Allegations&lt;/b&gt;&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="510" y="530" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2tZ9rhMwnFU-MTafR1sQ-3" value="&lt;h1&gt;Legal Factor&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;the existing flawed anti blasphemy law&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;.&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Legislative body and Constitutional Court prolong the constitutionality of anti blasphemy law&lt;span style=&quot;font-size: medium;&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;align=center;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="190" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="2tZ9rhMwnFU-MTafR1sQ-4" value="&lt;h1&gt;Ideology Factor&lt;span style=&quot;font-size: medium; font-weight: 400; text-align: start;&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;The Truth monopoly&lt;span style=&quot;font-size: medium;&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;the Government only recognised the Six official religions&lt;span style=&quot;font-size: medium;&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;align=center;" vertex="1" parent="1">
+          <mxGeometry x="380" y="200" width="190" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="2tZ9rhMwnFU-MTafR1sQ-5" value="&lt;h1&gt;Structural Factor&lt;span style=&quot;font-size: medium; font-weight: 400; text-align: start;&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;State Institution interference&lt;span style=&quot;font-size: medium;&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;MUI followed by Central and Local Government release various policies of deviant religions against Ahmadiyya, Gafatar, Meiliana, Ahok etc.&lt;span style=&quot;font-size: medium;&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;align=center;" vertex="1" parent="1">
+          <mxGeometry x="600" y="200" width="190" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="2tZ9rhMwnFU-MTafR1sQ-6" value="&lt;h1&gt;Social Factor&lt;span style=&quot;font-size: medium; font-weight: 400; text-align: start;&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Populism of Islam&lt;span style=&quot;font-size: medium;&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;the Hardline Islamic Groups gains public support by politicking blasphemy cases.&lt;span style=&quot;font-size: medium;&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeWidth=3;align=center;" vertex="1" parent="1">
+          <mxGeometry x="820" y="200" width="190" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="2tZ9rhMwnFU-MTafR1sQ-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="2tZ9rhMwnFU-MTafR1sQ-3" target="2tZ9rhMwnFU-MTafR1sQ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="500" as="sourcePoint" />
+            <mxPoint x="570" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="585" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2tZ9rhMwnFU-MTafR1sQ-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="2tZ9rhMwnFU-MTafR1sQ-4" target="2tZ9rhMwnFU-MTafR1sQ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="500" as="sourcePoint" />
+            <mxPoint x="630" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="585" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2tZ9rhMwnFU-MTafR1sQ-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="2tZ9rhMwnFU-MTafR1sQ-5" target="2tZ9rhMwnFU-MTafR1sQ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="440" as="sourcePoint" />
+            <mxPoint x="600" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="585" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2tZ9rhMwnFU-MTafR1sQ-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.537;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="2tZ9rhMwnFU-MTafR1sQ-6" target="2tZ9rhMwnFU-MTafR1sQ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="500" as="sourcePoint" />
+            <mxPoint x="650" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="585" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2tZ9rhMwnFU-MTafR1sQ-11" value="&lt;h2&gt;Lost of Justice&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="525" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2tZ9rhMwnFU-MTafR1sQ-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="2tZ9rhMwnFU-MTafR1sQ-1" target="2tZ9rhMwnFU-MTafR1sQ-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="620" as="sourcePoint" />
+            <mxPoint x="580" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
